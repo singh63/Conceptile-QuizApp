@@ -1,0 +1,5 @@
+package com.QuizApp.Entities;
+
+public class user {
+
+}

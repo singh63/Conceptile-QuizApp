@@ -1,0 +1,5 @@
+package com.QuizApp.Repository;
+
+public class UserStatRepository {
+
+}
